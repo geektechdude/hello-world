@@ -1,3 +1,2 @@
 # hello-world
-Test repository creation
-Test branch creation to merge with master
+Test repository for me to look at GitHub functions.
